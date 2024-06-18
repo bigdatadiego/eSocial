@@ -1,0 +1,180 @@
+{
+  "main": {
+    "id": "6565c301bf37fe26",
+    "type": "split",
+    "children": [
+      {
+        "id": "d557ca0f5843920b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "890e92808b4fe023",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CAPÍTULO III – ORIENTAÇÃO ESPECÍFICA POR EVENTO/S-1010 – Tabela de Rubricas.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "62eda14b548edd70",
+    "type": "split",
+    "children": [
+      {
+        "id": "4b4260437d948827",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ce611f139e51ec80",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8d5a5d957e247f7c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a67aabc4a002d74b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 340.5
+  },
+  "right": {
+    "id": "57730a305b657fd8",
+    "type": "split",
+    "children": [
+      {
+        "id": "5c53efb48815f485",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7a7f32b520cc1109",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "CAPÍTULO III – ORIENTAÇÃO ESPECÍFICA POR EVENTO/S-1010 – Tabela de Rubricas.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3d3fd3855cb6d976",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "CAPÍTULO III – ORIENTAÇÃO ESPECÍFICA POR EVENTO/S-1010 – Tabela de Rubricas.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "991acb23672a13ca",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "cb69d04f6a77de08",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "CAPÍTULO III – ORIENTAÇÃO ESPECÍFICA POR EVENTO/S-1010 – Tabela de Rubricas.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "890e92808b4fe023",
+  "lastOpenFiles": [
+    "CAPÍTULO III – ORIENTAÇÃO ESPECÍFICA POR EVENTO/S-1020 – Tabela de Lotações Tributárias.md",
+    "CAPÍTULO III – ORIENTAÇÃO ESPECÍFICA POR EVENTO/S-1000 – Informações do Empregador; Contribuinte; Órgão Público.md",
+    "CAPÍTULO III – ORIENTAÇÃO ESPECÍFICA POR EVENTO/S-1010 – Tabela de Rubricas.md",
+    "CAPÍTULO III – ORIENTAÇÃO ESPECÍFICA POR EVENTO/S-1005 – Tabela de Estabelecimentos, Obras ou Unidades de Órgãos Públicos.md",
+    "CAPÍTULO III – ORIENTAÇÃO ESPECÍFICA POR EVENTO/S-2399 – Trabalhador Sem Vínculo de Emprego; Estatutário - Término.md",
+    "CAPÍTULO III – ORIENTAÇÃO ESPECÍFICA POR EVENTO/S-1200 – Remuneração de trabalhador vinculado ao Regime Geral de Previdência Social.md",
+    "CAPÍTULO III – ORIENTAÇÃO ESPECÍFICA POR EVENTO/S-1070 – Tabela de Processos Administrativos; Judiciais.md",
+    "CAPÍTULO III – ORIENTAÇÃO ESPECÍFICA POR EVENTO/S-2200 – Cadastramento Inicial do Vínculo e Admissão; Ingresso de Trabalhador.md",
+    "CAPÍTULO III – ORIENTAÇÃO ESPECÍFICA POR EVENTO/S-2306 – Trabalhador Sem Vínculo de Emprego; Estatutário - Alteração Contratual.md",
+    "CAPÍTULO III – ORIENTAÇÃO ESPECÍFICA POR EVENTO/S-2300 – Trabalhador Sem Vínculo de Emprego; Estatutário - Início.md",
+    "CAPÍTULO III – ORIENTAÇÃO ESPECÍFICA POR EVENTO/S-2299 – Desligamento.md",
+    "CAPÍTULO III – ORIENTAÇÃO ESPECÍFICA POR EVENTO/S-2298 – Reintegração; Outros provimentos.md",
+    "CAPÍTULO III – ORIENTAÇÃO ESPECÍFICA POR EVENTO/S-2240 – Condições Ambientais do Trabalho - Agentes Nocivos.md",
+    "CAPÍTULO III – ORIENTAÇÃO ESPECÍFICA POR EVENTO/S-2231 – Cessão; Exercício em outro Órgão.md",
+    "CAPÍTULO III – ORIENTAÇÃO ESPECÍFICA POR EVENTO/S-2230 – Afastamento Temporário.md",
+    "CAPÍTULO III – ORIENTAÇÃO ESPECÍFICA POR EVENTO/S-2220 – Monitoramento da Saúde do Trabalhador.md",
+    "CAPÍTULO III – ORIENTAÇÃO ESPECÍFICA POR EVENTO/S-2210 – Comunicação de Acidente de Trabalho.md",
+    "CAPÍTULO III – ORIENTAÇÃO ESPECÍFICA POR EVENTO/S-2206 – Alteração de Contrato de Trabalho; Relação Estatutária.md",
+    "CAPÍTULO III – ORIENTAÇÃO ESPECÍFICA POR EVENTO/S-2205 – Alteração de Dados Cadastrais do Trabalhador.md",
+    "CAPÍTULO III – ORIENTAÇÃO ESPECÍFICA POR EVENTO/S-2190 – Registro Preliminar de Trabalhador.md",
+    "CAPÍTULO III – ORIENTAÇÃO ESPECÍFICA POR EVENTO/S-1299 – Fechamento dos Eventos Periódicos.md",
+    "CAPÍTULO III – ORIENTAÇÃO ESPECÍFICA POR EVENTO/S-1298 – Reabertura dos Eventos Periódicos.md",
+    "CAPÍTULO III – ORIENTAÇÃO ESPECÍFICA POR EVENTO/S-1280 – Informações Complementares aos Eventos Periódicos.md",
+    "CAPÍTULO III – ORIENTAÇÃO ESPECÍFICA POR EVENTO/S-1270 – Contratação de Trabalhadores Avulsos Não Portuários.md",
+    "CAPÍTULO III – ORIENTAÇÃO ESPECÍFICA POR EVENTO/S-1260 – Comercialização da Produção Rural Pessoa Física.md",
+    "CAPÍTULO III – ORIENTAÇÃO ESPECÍFICA POR EVENTO/S-1210 – Pagamentos de Rendimentos do Trabalho.md",
+    "CAPÍTULO III – ORIENTAÇÃO ESPECÍFICA POR EVENTO"
+  ]
+}
